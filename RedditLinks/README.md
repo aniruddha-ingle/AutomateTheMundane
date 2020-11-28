@@ -26,7 +26,9 @@ The last element in this String array was my community name. Furthermore, I dele
 ## Part B: Unix Command  
 Navigate to the folder where your .txt file is and run the following command (remember to swap your filename in for 'links1.txt')
 
+```
 $ sed 's/.*\/\(.*\)\/$/\1/' links1.txt  
+```
   
 This command will print out all the community names in the console, like so - 
 ![](Images/sed_command.png)
