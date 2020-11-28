@@ -5,7 +5,7 @@
 
 
 ### Soltion: Write a Program!  
-![Image of Sheet](RedditLinks/Images/Before.png)
+![Image of Sheet](Images/Before.png)
 
 I copied the entire column of links into a text file. I saw one link which was in double quotes, removed them, saved the file.  
   
@@ -13,7 +13,7 @@ The google sheet was not too bad, but there were some entries that were not link
   
 The important thing here is to make sure the empty lines within the links file are retained in the communityNames file. Now, our sheet is coherent with the content of the communityNames file. Simply, copy the entire file and paste it in the google sheet.
 
-![Image of Complete Sheet](AutomateTheMundane/RedditLinks/Images/After.png)
+![Image of Complete Sheet](Images/After.png)
 
 
 
