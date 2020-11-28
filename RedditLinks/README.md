@@ -13,6 +13,8 @@ The google sheet was not too bad, but there were some entries that were not link
   
 The important thing here is to make sure the empty lines within the links file are retained in the communityNames file. Now, our sheet is coherent with the content of the communityNames file. Simply, copy the entire file and paste it in the google sheet.
 
+![Image of Complete Sheet](AutomateTheMundane/RedditLinks/Images/After.png)
+
 
 
 
