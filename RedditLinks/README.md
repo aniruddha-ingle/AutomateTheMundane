@@ -1,11 +1,13 @@
 ## Extracting Community Names from Thousands of Links  
+
+[Watch Video Demonstraion](https://www.youtube.com/watch?v=H7nbVwMha8w)
   
-### Problem: Google Sheet has MANY Reddit Links, Pupulating the Community Names Column is Arduous
+## Problem: Google Sheet has MANY Reddit Links, Pupulating the Community Names Column is Arduous
 
-
-
-### Soltion: Write a Program!  
 ![Image of Sheet](Images/Before.png)
+
+## Soltion: Write a Program!  
+
 
 I copied the entire column of links into a text file. I saw one link which was in double quotes, removed them, saved the file.  
   
