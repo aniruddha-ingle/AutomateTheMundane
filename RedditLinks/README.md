@@ -5,7 +5,7 @@
 
 
 ### Soltion: Write a Program!  
-![]AutomateTheMundane/RedditLinks/Images/Before
+![](AutomateTheMundane/RedditLinks/Images/Before.png)
 
 I copied the entire column of links into a text file. I saw one link which was in double quotes, removed them, saved the file.  
   
